@@ -1,0 +1,6 @@
+{
+  "name": "Kings Furniture",
+  "description": "Multi-page furniture website for Kings Furniture Dehradun — premier furniture wholesaler in Paltan Bazaar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
